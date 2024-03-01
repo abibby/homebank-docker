@@ -3,7 +3,7 @@ name: Publish
 on:
   push:
     branches:
-      - master
+      - main
 #   schedule:
 #     # first day of each month at 3:00 am
 #     - cron: "0 3 1 * *"
