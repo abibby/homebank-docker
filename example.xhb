@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<homebank v="1.3999999999999999" d="050704">
+<properties title="Adam Bibby" curr="1" auto_smode="0" auto_weekday="1" auto_nbmonths="1"/>
+<cur key="1" flags="0" iso="CAD" name="Canadian Dollar" symb="$" syprf="1" dchar="." gchar="," frac="2" rate="0" mdate="0"/>
+</homebank>

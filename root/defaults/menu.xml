@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+    <menu id="root-menu" label="MENU">
+        <item label="HomeBNank" icon="/usr/share/icons/hicolor/48x48/apps/homebank.png"><action name="Execute"><command>/usr/bin/homebank</command></action></item>
+    </menu>
+</openbox_menu>
