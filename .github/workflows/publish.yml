@@ -1,13 +1,13 @@
-name: Deploy
+name: Publish
 
 on:
   push:
     branches:
       - master
-  schedule:
-    # first day of each month at 3:00 am
-    - cron: "0 3 1 * *"
-  workflow_dispatch:
+#   schedule:
+#     # first day of each month at 3:00 am
+#     - cron: "0 3 1 * *"
+#   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
